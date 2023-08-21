@@ -7,11 +7,13 @@
             "2":"tambahkan baris = Header set Access-Control-Allow-Origin '*'",
             "3": "simpan",
             "4": "restart service apache"
-            }
+            },
+        "sumber":"https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin"
     },
     {
         "id":2,
         "kendala":"",
-        "solusi":""
+        "solusi":"",
+        "sumber":""
     }
 ]
