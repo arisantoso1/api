@@ -4,9 +4,9 @@
         "kendala":"tidak bisa menampilkan hasil fetch api di react js",
         "solusi": {
             "1":"buka httpd.conf",
-            "2":"tambahkan baris: Header set Access-Control-Allow-Origin '*'",
+            "2":"tambahkan baris = Header set Access-Control-Allow-Origin '*'",
             "3": "simpan",
-            "4": "restart service apache",
+            "4": "restart service apache"
             }
     }
 ]
