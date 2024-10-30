@@ -1,1 +1,5 @@
-[{"id":"1","no_order":"12345678","rm":"012345","nama":"TEST","tgl_order":"30102024","tgl_selesai":"30102024","unit":"POLI"},{"id":"2","no_order":"12345678","rm":"123456","nama":"TEST","tgl_order":"30102024","tgl_selesai":"30102024","unit":"POLI"},{"id":"3","no_order":"12345678","rm":"234567","nama":"TEST","tgl_order":"30102024","tgl_selesai":"30102024","unit":"POLI"},{"id":"4","no_order":"12345678","rm":"345678, dr.","nama":"TEST","tgl_order":"30102024","tgl_selesai":"30102024","unit":"POLI"},{"id":"5","no_order":"12345678","rm":"021324, dr.","nama":"TEST","tgl_order":"30102024","tgl_selesai":"30102024","unit":"POLI"}]
+[{"id":"1","no_order":"12345678","rm":"012345","nama":"TEST","tgl_order":"30102024 13:00","tgl_selesai":"30102024 15:00","unit":"POLI"},
+  {"id":"2","no_order":"12345678","rm":"123456","nama":"FULAN","tgl_order":"30102024 13:05","tgl_selesai":"30102024 15:05","unit":"POLI"},
+  {"id":"3","no_order":"12345678","rm":"234567","nama":"WAHID","tgl_order":"30102024 13:15","tgl_selesai":"30102024 15:20","unit":"POLI"},
+  {"id":"4","no_order":"12345678","rm":"345678","nama":"DUO","tgl_order":"30102024 13:30","tgl_selesai":"30102024 16:00","unit":"POLI"},
+  {"id":"5","no_order":"12345678","rm":"021324","nama":"TRIO","tgl_order":"30102024 13:45","tgl_selesai":"30102024 16:15","unit":"POLI"}]
